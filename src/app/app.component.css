@@ -1,0 +1,24 @@
+.upload-container {
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+::-webkit-file-upload-button {
+    background: gray;
+    color: black;
+    /* padding: 1em; */
+    border: none;
+    border-radius: 6px;
+    height: 40px;
+    text-align: center;
+  }
+
+  .chart-container {
+    width: 300px;
+    height: auto;
+  }
+
+  .chart-bar-container {
+    width: 100%;
+  }
+  
